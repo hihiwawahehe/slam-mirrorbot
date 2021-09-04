@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "inspiring-grove-325011",
+  "private_key_id": "d8d8ba4f00aecb07d6e776546805d332cd613060",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDA59dOUTdR/8AQ\num8HoDq4keEtwOQbAX1IfdVyxXdYiOV+Do+if0C+O51ZUSNvUmkI+vgUxMFaz/Xk\nCDKb4gSXN9mDXT01Ts0dxm4tDKNrn4XpTJr2LABlg6E7onFYDNqIaaQ3ZQH2XHnh\n7sI4DSuBHJ5mz2nbp00mVoa+A8abKgPnA0bGnYNaz6NGMPD51Pn1NNYw62ZdM8EP\n8eos51ojCG3ZomLmwC2xhdkVZDq/NDwAYkajOb4vQ7QhDQaCKm4NDhZrlOE0kGPi\nYCWwR32LSFbdezeBXI1zvKfWByz5oBdpbEceazQaruGa7tzC0aRyU0J64jTpx/4P\n6Jo0iJbTAgMBAAECggEAFJoODAQEzkyWihLRyHThIJTFLDpAAkRX9CCAOx2CCqIK\n2bobYUWJjWeCJ/z64FONpShhy0dcxmKUW7H7xFsl610gbUpNaak3TcPt61YWCT3v\nCBn8KL338t9/yNsnPg9Cst6OwQhtZmQSSOyosGIeWyUfzlITd6J3961g/t/EsQ24\nUvxJQlIJQ+XCALjy75Z+Jvem9uteMKFYUiOsOmUHE79FMk32V+p4TZVu/v/D4nCA\ncQruBqOkDi/Pakb0S9/N2cGbjMz/StUxTks4SjIsWAKsr5vx4g9w5O2K6LK4bxpF\nl9OKA7/mWl1yJhgDRMvTh9QdCBRItxtl4sKLCogp6QKBgQDngvTrfCLkwknaPEaP\ntpAAKyNrUBZfhro2dBsztfwz5dSsNdKWVraPtqcckygKaRWsGcjxUDtKSNdFpvZh\nss0RdsEPc+dHl6fbA39LggujANxYNRitfBucUsuNPxNlP+YNdrFhh0l2He9T767r\n2BSBc3YU56bbHZlrY2wLjCk6OwKBgQDVT3v4rDFM24ETp2/gMQuMkDTJ7ISkLkee\nBmPrHOb8ouHgopfCcqMw2RoaHu2rxB5+SbSr0sosN8XkZm8J5km2VfWi76LFLL/O\n/KTb3C1pL4Y2YG3x6fGwoECSGrrmZpg5NnH+s4YaMoWimE2/U8GwzOC+QXrBnadE\nZuQ7hKk0SQKBgQDRlrIqWjiwxt/bTcRHqOxW6rbnGRsYIj2EvLo/p1qKlWBjA1sB\ntcES/DXv3Z1bR2VSaAmNxafXiXgyW4QkUJ3sWIlRdwmDu90/nrvoXPQx/r58sJ0F\nuhy4+g/DcL4bZKzdtX3CoJq170XSxGOkqftuclwNcuaQ6gwRt3GCRsKwLwKBgQCl\neXuadTnpfX6sWH+ZU3K6IERTQH/FPYGhPSPWCB3IbjL7qCZCWdvu0PxGtyd40DM3\nlMXrZSIhG0MQ48XP0C3unNBpDa0feI9zatoZFLzFlHBxTmz79ZfghPCSZtoGUiBU\ngb/87hdhyz+P2sa1XawsE0NlVDZ+bGaN0aPL6CW6wQKBgQDg+uA9D8QnxMbTp+lm\nUQOIC56GvfwU+vKgqilVP8bUrNzgBZ1rKTFADjZtrPWj8s3GXlXtZy7s3U+1V/AV\noJ/FtYZ9DvYN33v46BhSfKFXDYfnWWKgqC1YnrI/AARJjZqPVXnyjCDk1XuQhM3k\n0ypnrKcSFeSSHUx8aDGvpsRMTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-ubycamp6al53udz69ktx8yx-a2@inspiring-grove-325011.iam.gserviceaccount.com",
+  "client_id": "101405485643443465174",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-ubycamp6al53udz69ktx8yx-a2%40inspiring-grove-325011.iam.gserviceaccount.com"
+}
